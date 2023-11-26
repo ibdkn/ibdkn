@@ -28,3 +28,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/ibdkn/badges/large)
+
+### ⚙️ GitHub statistics:
+
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ibdkn&theme=dark&background=000000" alt="webDev's Github stats" />
+
+
