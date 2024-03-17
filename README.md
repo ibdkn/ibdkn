@@ -1,6 +1,6 @@
 # Hello there 👋
 
-### 👨‍💻 My name's Irina and I'm a beginner web-developer. 
+### 👨‍💻 My name's Irina and I'm a beginner frontend-developer. 
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
