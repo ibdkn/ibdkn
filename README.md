@@ -6,7 +6,7 @@
 <!--  <img width="600" src="assets/github-snake.svg" alt="snake"/> -->
 </p>
 
-![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
+![](https://leetcard.ibdkn/jacoblincool?border=0&radius=20)
 
 ---
 
