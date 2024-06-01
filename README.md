@@ -6,7 +6,7 @@
 <!--  <img width="600" src="assets/github-snake.svg" alt="snake"/> -->
 </p>
 
-![](https://leetcard.ibdkn/jacoblincool?border=0&radius=20)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ibdkn&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ---
 
